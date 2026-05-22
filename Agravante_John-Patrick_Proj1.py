@@ -6,8 +6,8 @@ Algorithm: Recursive Showcase
 """
 
 """
-Dataset: digits of birth month and day
-In any combination: 2 6 5 3 0 
+Dataset: digits of birth year, month, day of friends and family
+In any combination: 2 6 5 3 0 8 7 1 9
 """
 
 #Recursion Implementations
